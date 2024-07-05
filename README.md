@@ -6,7 +6,7 @@ A very based 1.20.1 Minecraft client with some of the best visuals currently on 
 ## Installing
 ### You will need:
 - Minecraft: Java Edition
-- Fabric Mod Loader
+- Fabric Mod Loader as
 
 ### How to install - stable version
 1. Get the latest release, `latest.jar`, from the `bin` directory in this repository.
